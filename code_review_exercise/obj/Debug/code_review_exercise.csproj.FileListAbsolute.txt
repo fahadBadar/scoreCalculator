@@ -1,0 +1,6 @@
+/Users/fahad/RiderProjects/code_review_exercise/code_review_exercise/bin/Debug/code_review_exercise.exe
+/Users/fahad/RiderProjects/code_review_exercise/code_review_exercise/bin/Debug/code_review_exercise.pdb
+/Users/fahad/RiderProjects/code_review_exercise/code_review_exercise/obj/Debug/code_review_exercise.csproj.AssemblyReference.cache
+/Users/fahad/RiderProjects/code_review_exercise/code_review_exercise/obj/Debug/code_review_exercise.csproj.CoreCompileInputs.cache
+/Users/fahad/RiderProjects/code_review_exercise/code_review_exercise/obj/Debug/code_review_exercise.exe
+/Users/fahad/RiderProjects/code_review_exercise/code_review_exercise/obj/Debug/code_review_exercise.pdb
